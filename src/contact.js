@@ -3,7 +3,7 @@ const c = [{
   firstname : "Messi",
   image :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxaRnL7MKuyiPUuk-q-BWn5W3XYl6s0CkLA&usqp=CAU",
   phonenumber :"0799877411",
-  email: "zakinaibi@gmail.com"
+  email: "messi@gmail.com"
 },
 {
   id:2,
